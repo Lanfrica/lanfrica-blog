@@ -1,7 +1,8 @@
-<p align="center">
-![Logo](https://user-images.githubusercontent.com/36100251/154044756-33db22a7-ff8f-4560-b12b-2574bb8a0db7.png)
-
  </p>
+ <p align="center">
+    ![Logo](https://user-images.githubusercontent.com/36100251/154044756-33db22a7-ff8f-4560-b12b-2574bb8a0db7.png)
+
+</p>
  
 The last few months have been full of activity at Lanfrica, and we are happy to announce that [Lanfrica](https://www.lanfrica.com) is officially launched.
  
