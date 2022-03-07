@@ -1,5 +1,7 @@
  ![Logo](https://user-images.githubusercontent.com/36100251/154044756-33db22a7-ff8f-4560-b12b-2574bb8a0db7.png)
  
+ ### [Check out our blog website](https://blog.lanfrica.com/lanfrica-v1-has-been-launched)
+ 
 The last few months have been full of activity at Lanfrica, and we are happy to announce that [Lanfrica](https://www.lanfrica.com) is officially launched.
  
 Lanfrica aims to mitigate the difficulty encountered in the discovery of African language resources by creating a centralized, language-first catalog. For instance, if you’re looking for resources (linguistic datasets or research papers) in a particular African language, Lanfrica will point you to the different sources on the web that have such datasets in the desired language. In the deficient case, we adopt a participatory approach by allowing you [to contribute](https://lanfrica.com/contribute) (with papers, datasets). Read more about the motivation and scope of Lanfrica in our [About section](https://lanfrica.com/about).
